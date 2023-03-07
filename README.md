@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GravitySquid
 - 👀 Into all things mathematical, technical and philosophical, when time allows
-- 🌱 I’m currently messing with cBots & also Blazor WebAssembly
-- 💞️ I’m looking to collaborate on anything interesting or complex
+- 🌱 I’m currently messing with cAlgo bots and indicators for cTrader
+- 💞️ I’m looking to collaborate on anything interesting, complex, or otherwise
 - 📫 How to reach me ... I'll be on Holodeck 4, running a simulation
 
 <!---
